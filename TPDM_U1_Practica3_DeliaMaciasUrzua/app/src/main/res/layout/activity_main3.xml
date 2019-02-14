@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="4"
+    android:columnCount="2"
+    android:layout_marginBottom="5dp"
+    tools:context=".Main3Activity">
+
+
+    <ImageView
+        android:src="@drawable/event"
+        android:layout_height="100dp"
+        android:layout_columnSpan="2"
+        />
+    <ImageView android:src="@drawable/act31"
+        android:layout_width="192dp"
+        android:layout_height="100dp"
+        />
+    <ImageView android:src="@drawable/act32"
+        android:layout_width="192dp"
+        android:layout_height="100dp"
+        />
+    <ImageView android:src="@drawable/act33"
+        android:layout_width="192dp"
+        android:layout_height="100dp"
+        />
+    <ImageView android:src="@drawable/act34"
+        android:layout_width="192dp"
+        android:layout_height="120dp"
+        />
+    <ImageView android:src="@drawable/act35"
+        android:layout_width="192dp"
+
+        android:layout_height="100dp"
+        />
+    <ImageView android:src="@drawable/act36"
+        android:layout_width="192dp"
+        android:layout_height="100dp"
+        />
+    <ImageView android:src="@drawable/act37"
+        android:layout_width="192dp"
+        android:layout_height="100dp"
+        />
+    <ImageView android:src="@drawable/act38"
+        android:layout_width="192dp"
+        android:layout_height="100dp"
+        />
+
+
+
+
+</GridLayout>
